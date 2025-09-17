@@ -1,0 +1,8 @@
+**INSTALLING SASS**
+Open the terminal: In VS, I opened the 0x03-sass_scss via the vscode terminal terminal.
+
+Verify Node.js and npm: Before installing Sass,I ensured Node.js and npm are installed on your system by running node -v and npm -v. This confirms the necessary environment is in place.
+
+Install Sass:I ran the command npm install sass@3.7.4 in the terminal. This tells npm to fetch and install the exact version 3.7.4 of the Sass package into your project's node_modules directory. The @ symbol is used to specify the version number.
+
+Confirm Installation: After the installation is complete, you can verify that Sass is installed correctly by running npx sass --version. This command executes the Sass binary from the node_modules folder and displays its version, confirming that the specified version has been installed successfully.
